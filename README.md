@@ -1,4 +1,4 @@
-- 👋 Hi, I’m WvtrDev
+- 👋 Hi, I’m WvtrDev, I'm a brazilian man and I'm 14y old
 - 👀 I’m interested in play some games
 - 🌱 I’m currently learning english
 - 💞️ I’m looking to collaborate on maybe Discord bots or Minecraft mods
